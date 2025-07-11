@@ -36,5 +36,3 @@ More than 20 meaningful charts were created using:
 - Pandas, NumPy
 - Seaborn, Matplotlib
 - Jupyter Notebook
-
-## 📁 Repository Structure
